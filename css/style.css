@@ -38,7 +38,6 @@ header h1{
 
 
 
-
 header p{
     font-family: Quicksand;
     text-align: left;
@@ -106,6 +105,7 @@ header p{
     border-radius: 5px;
     padding: 10px;
     overflow: hidden;
+    margin: 5px 0px;
 }
 
 #testimonial img{
@@ -142,11 +142,11 @@ header p{
 
 /* Footer */
 
-footer {
+.content {
     font-family: Playfair Display;
     font-weight: bold;
     text-align: center;
-    margin-top: auto
+    margin-top: auto;
 }
 
 body {
