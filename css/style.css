@@ -147,6 +147,9 @@ header p{
     font-weight: bold;
     text-align: center;
     margin-top: auto;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 body {
