@@ -99,7 +99,7 @@ ul {
 
 /* Review */
 
-#reviews {
+#reviews div {
     font-family: "Quicksand", sans-serif;
     border: 2px solid #1112FF;
     background-color: #C7C6BF;
@@ -109,14 +109,14 @@ ul {
     margin: 5px 0px;
 }
 
-#reviews img {
+#reviews div img {
     float: left;
     margin-right: 20px;
     max-height: 90px;
     border-radius: 80%;
 }
 
-#reviews span {
+#reviews div span {
     font-size: 24px;
     margin-right: 30px;
 }
