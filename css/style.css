@@ -15,7 +15,7 @@ h6 {
 }
 
 h1 {
-    font-family: Playfair Display;
+    font-family: "Playfair Display", sans-serif;
     background-color: #C7C6BF;
     border: 2px solid #1112FF;
 }
@@ -39,7 +39,7 @@ header h1 {
 
 
 header p {
-    font-family: Quicksand;
+    font-family: "Quicksand", sans-serif;
     text-align: left;
     font-weight: normal;
 }
@@ -47,9 +47,8 @@ header p {
 
 /* Hero Section */
 
-
 #hero {
-    font-family: Playfair Display;
+    font-family: "Playfair Display", sans-serif;
     font-size: 1.5em;
     color: #1112FF;
     text-align: center;
@@ -70,7 +69,7 @@ header p {
 /* Portfolio */
 
 #portfolio h3 {
-    font-family: Playfair Display;
+    font-family: "Playfair Display", sans-serif;
     text-align: left;
     font-size: 24px;
     font-weight: bold;
@@ -88,7 +87,7 @@ header p {
 
 #portfolio p,
 ul {
-    font-family: Quicksand;
+    font-family: "Quicksand", sans-serif;
 }
 
 #portfolio ul {
@@ -101,7 +100,7 @@ ul {
 /* Review */
 
 #reviews {
-    font-family: Quicksand;
+    font-family: "Quicksand", sans-serif;
     border: 2px solid #1112FF;
     background-color: #C7C6BF;
     border-radius: 5px;
@@ -129,7 +128,7 @@ ul {
 }
 
 #contact h3 {
-    font-family: Playfair Display;
+    font-family: "Playfair Display", sans-serif;
     font-size: 24px;
     font-weight: bold;
     text-align: left;
@@ -145,7 +144,7 @@ ul {
 /* Footer */
 
 .footer {
-    font-family: Playfair Display;
+    font-family: "Playfair Display", sans-serif;
     font-weight: bold;
     position: fixed;
     left: 0;
