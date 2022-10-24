@@ -1,6 +1,4 @@
-html, body {
-    height: 100%;
-}
+
 body {
     font-size: 1em;
     background-color: #C5D5EB;
@@ -142,14 +140,15 @@ header p{
 
 /* Footer */
 
-.content {
+.footer {
     font-family: Playfair Display;
     font-weight: bold;
-    text-align: center;
-    margin-top: auto;
-    position: absolute;
+    position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
+    text-align: center;
+    margin: 10px;
 }
 
 body {
@@ -157,13 +156,7 @@ body {
     flex-direction: column;
 }
 
-.content {
-    flex: 1 0 auto;
-}
 
-.footer {
-    flex-shrink: 0;
-}
 
 
 
